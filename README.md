@@ -1,0 +1,1 @@
+git -c credential.helper= push -u origin main
